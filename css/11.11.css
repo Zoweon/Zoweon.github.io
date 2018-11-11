@@ -1,0 +1,47 @@
+.my-card-title{
+	color: blue;
+}
+.background, body{
+	background: url(http://catsatthestudios.com/wp-content/uploads/2017/12/12920541_1345368955489850_5587934409579916708_n-2-960x410.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+	height: 300px;
+}
+.text-italics{
+	font-style: italic;
+	text-decoration: underline;
+}
+.back{
+	background: url(http://catsatthestudios.com/wp-content/uploads/2017/12/12920541_1345368955489850_5587934409579916708_n-2-960x410.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.font{
+	font-size: 60px;
+}
+.smaller{
+	font-size: 30px;
+}
+.size{
+	color: grey;
+	font-size: 80px;
+	text-align: center;
+	font-family: 'Black And White Picture', sans-serif;
+
+}
+body{
+	font-family: 'Patrick Hand', cursive;
+}
+.Picture{
+	widen:300px;
+	height:300px;
+}
+
+.card{
+	margin-bottom: 12px;
+}
